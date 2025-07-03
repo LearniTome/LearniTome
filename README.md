@@ -99,9 +99,7 @@ Aspiring Python developer passionate about building web apps, automating busines
   Invite others to review your code or open issues for suggestions.
 
 ## 📫 Connect with Me <a name="connect-with-me"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)  
-📧 Email: Hello@learnitome.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)  📧 Email: Hello@learnitome.com
 
 ## ⚡ Fun Fact / Quote <a name="fun-fact--quote"></a>
 > “Learning to write programs stretches your mind, and helps you think better.” — Bill Gates
