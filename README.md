@@ -3,6 +3,7 @@
 Welcome to my GitHub profile!
 
 ## Table of Contents
+
 1.  [About Me](#about-me)
 2.  [Skills & Tools](#skills--tools)
 3.  [Featured Projects](#featured-projects)
@@ -15,10 +16,13 @@ Welcome to my GitHub profile!
 10. [Fun Fact / Quote](#fun-fact--quote)
 
 ## 🚀 About Me <a name="about-me"></a>
+
 I'm an aspiring Python developer passionate about building real-world solutions, learning new technologies, and sharing knowledge. I enjoy working on both web and backend projects, and I'm always looking for new challenges!  
+
 🌱 Always learning, always growing.
 
 ## 🛠️ Skills & Tools <a name="skills--tools"></a>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -31,21 +35,29 @@ I'm an aspiring Python developer passionate about building real-world solutions,
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
 ## 🌟 Featured Projects <a name="featured-projects"></a>
-- **Cupping Therapy App**  
+
+- **Cupping Therapy App**
+  
   _A web application built with Tailwind CSS and PostgreSQL for managing cupping therapy sessions._
-- **Custom Addons for Odoo 18**  
+  
+- **Custom Addons for Odoo 18**
+  
   _Several custom business addons developed for Odoo 18 to extend and automate business processes._
 
 ## ⚡ Quick Description <a name="quick-description"></a>
+
 Aspiring Python developer passionate about building web apps, automating business processes, and learning new technologies. Skilled in Python, Tailwind CSS, PostgreSQL, and Odoo Addon development. Always eager to grow and take on new challenges!
 
 ## 📊 GitHub Stats <a name="github-stats"></a>
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearniTome&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 GitHub Streak <a name="github-streak"></a>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LearniTome&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 Top Languages <a name="top-languages"></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LearniTome&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚩 Tips to Upgrade Your GitHub Profile <a name="tips-to-upgrade-your-github-profile"></a>
@@ -89,7 +101,7 @@ Aspiring Python developer passionate about building web apps, automating busines
 ## 📫 Connect with Me <a name="connect-with-me"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)  
-📧 Email: your.email@example.com
+📧 Email: Hello@learnitome.com
 
 ## ⚡ Fun Fact / Quote <a name="fun-fact--quote"></a>
 > “Learning to write programs stretches your mind, and helps you think better.” — Bill Gates
