@@ -1,73 +1,21 @@
-# Hi there, I'm Learni Tome 👋
-
-Welcome to my GitHub profile!
-
-## Table of Contents
-
-1.  [About Me](#about-me)
-2.  [Skills & Tools](#skills--tools)
-3.  [Featured Projects](#featured-projects)
-4.  [Quick Description](#quick-description)
-5.  [GitHub Stats](#github-stats)
-6.  [GitHub Streak](#github-streak)
-7.  [Top Languages](#top-languages)
-8.  [Connect with Me](#connect-with-me)
-9. [Fun Fact / Quote](#fun-fact--quote)
-
-## 🚀 About Me <a name="about-me"></a>
-
-I'm an aspiring Python developer passionate about building real-world solutions, learning new technologies, and sharing knowledge. I enjoy working on both web and backend projects, and I'm always looking for new challenges!  
-
-🌱 Always learning, always growing.
-
-## 🛠️ Skills & Tools <a name="skills--tools"></a>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-
-## 🌟 Featured Projects <a name="featured-projects"></a>
-
-- **Cupping Therapy App**
-  
-  _A web application built with Tailwind CSS and PostgreSQL for managing cupping therapy sessions._
-  
-- **Custom Addons for Odoo 18**
-  
-  _Several custom business addons developed for Odoo 18 to extend and automate business processes._
-
-## ⚡ Quick Description <a name="quick-description"></a>
-
-Aspiring Python developer passionate about building web apps, automating business processes, and learning new technologies. Skilled in Python, Tailwind CSS, PostgreSQL, and Odoo Addon development. Always eager to grow and take on new challenges!
-
-## 📊 GitHub Stats <a name="github-stats"></a>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LearniTome&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔥 GitHub Streak <a name="github-streak"></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LearniTome&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-## 🏆 Top Languages <a name="top-languages"></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LearniTome&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# 💫 About Me:
+🧠 Aspiring Python developer, learning best practices and modern tools<br>🛠️ Building real-world solutions and small projects to solve everyday problems<br>🌱 Continuously learning (APIs, testing, CI/CD, and clean code)<br>🤝 Open to collaboration, feedback, and contributing to OSS<br>
 
 
-## 📫 Connect with Me <a name="connect-with-me"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)  📧 Email: Hello@learnitome.com
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=plastic&logo=linode&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LearniTome&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LearniTome&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LearniTome&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ⚡ Fun Fact / Quote <a name="fun-fact--quote"></a>
-> “Learning to write programs stretches your mind, and helps you think better.” — Bill Gates
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LearniTome&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
 
-😄 In my free time, I enjoy reading, discovering new tech, and having fun with code challenges!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=LearniTome&icon=0&color=0)](https://visitcount.itsvg.in)
 
-_Thanks for visiting my profile!_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
