@@ -53,7 +53,7 @@ Aspiring Python developer passionate about building web apps, automating busines
 
 ## 🔥 GitHub Streak <a name="github-streak"></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LearniTome&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LearniTome&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🏆 Top Languages <a name="top-languages"></a>
 
