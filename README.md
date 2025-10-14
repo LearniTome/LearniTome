@@ -11,9 +11,8 @@ Welcome to my GitHub profile!
 5.  [GitHub Stats](#github-stats)
 6.  [GitHub Streak](#github-streak)
 7.  [Top Languages](#top-languages)
-8.  [Tips to Upgrade Your GitHub Profile](#tips-to-upgrade-your-github-profile)
-9.  [Connect with Me](#connect-with-me)
-10. [Fun Fact / Quote](#fun-fact--quote)
+8.  [Connect with Me](#connect-with-me)
+9. [Fun Fact / Quote](#fun-fact--quote)
 
 ## 🚀 About Me <a name="about-me"></a>
 
@@ -60,43 +59,6 @@ Aspiring Python developer passionate about building web apps, automating busines
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LearniTome&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚩 Tips to Upgrade Your GitHub Profile <a name="tips-to-upgrade-your-github-profile"></a>
-
-- **Pin Your Best Projects:**  
-  Use the “Pinned” section on your profile to showcase up to 6 top repositories that highlight your skills and interests.
-
-- **Write Detailed READMEs:**  
-  Each project should have a clear README explaining its purpose, setup instructions, usage, and what you learned.
-
-- **Use Meaningful Commit Messages:**  
-  Descriptive commit messages (e.g., “Add login feature”) show professionalism and make your work easier to understand.
-
-- **Organize Your Code:**  
-  Structure your code with folders and clear filenames. Keep your code clean, well-commented, and follow Python’s PEP8 style guide.
-
-- **Showcase Learning and Growth:**  
-  Share small projects, coding exercises, or solutions to challenges (like from LeetCode, HackerRank, or Codewars).
-
-- **Contribute to Open Source:**  
-  Look for “good first issue” or “help wanted” labels on repositories. Even fixing typos or documentation helps!
-
-- **Add a GitHub Actions Badge:**  
-  Set up GitHub Actions for testing/linting and display the status badge in your README.
-
-- **Keep Your Profile Active:**  
-  Make regular contributions (commits, pull requests, profile updates) to keep your profile looking fresh.
-
-- **Highlight Achievements:**  
-  Celebrate certificates, completed courses, hackathons, or recognitions in your README.
-
-- **Link to Other Profiles:**  
-  Add your LinkedIn, Twitter, Stack Overflow, or blog to help people connect with you.
-
-- **Use Profile README Widgets:**  
-  Add widgets for stats, streaks, top languages, or visitor counters using Markdown badges and [shields.io](https://shields.io/).
-
-- **Ask for Feedback:**  
-  Invite others to review your code or open issues for suggestions.
 
 ## 📫 Connect with Me <a name="connect-with-me"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](your-twitter-url)  📧 Email: Hello@learnitome.com
